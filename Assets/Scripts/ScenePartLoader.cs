@@ -31,6 +31,7 @@ public class ScenePartLoader : MonoBehaviour
                 }
             }
         }
+        collectables.SetActive(true);
     }
 
     void Update()
